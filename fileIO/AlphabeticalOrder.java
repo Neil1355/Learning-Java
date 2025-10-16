@@ -1,5 +1,3 @@
-package Homework;
-
 import java.util.*;
 
 public class AlphabeticalOrder {
@@ -16,3 +14,4 @@ public class AlphabeticalOrder {
         }
     }
 }
+
