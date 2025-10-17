@@ -1,5 +1,7 @@
 package DataStructures_Collections;
 
+
+
 	class Stack_ 
 	{
 		int arr[] = new int[5];
@@ -66,4 +68,5 @@ public class AL_Generic {
 		st.push(44);
 		st.printstack();
 	}
+
 }
