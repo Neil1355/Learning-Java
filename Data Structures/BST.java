@@ -10,6 +10,7 @@ class TreeNode {
 	}
 }
 
+
 public class BST {
 	TreeNode root;
 
@@ -51,4 +52,5 @@ public class BST {
 			System.out.println(searchKey + " Does not exist");
 		}
 	}
+
 }
