@@ -1,10 +1,7 @@
 package Homework;
 import java.util.ArrayList;
 
-
 public class Homework3 {
-
-
 
 	public static void main(String[] args) {
 	    	 ArrayList <Integer> al = new ArrayList <Integer>();
@@ -19,8 +16,7 @@ public class Homework3 {
 	    		 sum+=num;
 	    	 }
 	    		 System.out.println("->"+sum);
-	    		 
-	     
+	    		
 	}
 }
 
