@@ -1,9 +1,5 @@
 package Array;
 
-/**
- *
- * @author xpert infotech
- */
 public class CharArrayExample {
 	public static void main(String[] args) {
 		char arr[] = new char[5];
