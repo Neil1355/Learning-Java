@@ -20,7 +20,6 @@ class B extends A {
 }
   
 public class method_overriding {
-	
 public static void main(String[] args) {
 
 B subOB = new B(1, 2, 3) ;
