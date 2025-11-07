@@ -51,5 +51,4 @@ public class shape {
 	shape obj = new shape() ; 
 	obj.getdata();
 }
-
 }
